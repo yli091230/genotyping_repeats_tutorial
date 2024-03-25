@@ -1,5 +1,5 @@
 # dirs
-.ipynb_checkpoints/*
+.ipynb_checkpoints/
 1000_genomes/
 references/
 example_papers/
@@ -7,7 +7,7 @@ HipSTR/
 EnsembleTR/
 TRTools/
 output/
-example_papers/
+relevant_papers/
 ExpansionHunter*/
 
 # files
