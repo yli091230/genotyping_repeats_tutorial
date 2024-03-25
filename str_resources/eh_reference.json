@@ -1,0 +1,48 @@
+[
+    {
+        "LocusId": "HTT",
+        "LocusStructure": "(CAG)*CAACAG(CCG)*",
+        "ReferenceRegion": [
+            "chr4:3074876-3074933",
+            "chr4:3074939-3074966"
+        ],
+        "VariantId": [
+            "HTT",
+            "HTT_CCG"
+        ],
+        "VariantType": [
+            "Repeat",
+            "Repeat"
+        ]
+    },
+    {
+        "LocusId": "ESR2",
+        "LocusStructure": "(TG)*",
+        "ReferenceRegion": "chr14:64253561-64253619",
+        "VariantType": "Repeat"
+    },
+    {
+        "LocusId": "CA10",
+        "LocusStructure": "(AGC)*",
+        "ReferenceRegion": "chr17:51630312-52160017",
+        "VariantType": "Repeat"
+    },
+    {
+        "LocusId": "NEXN",
+        "LocusStructure": "(TTC)*",
+        "ReferenceRegion": "chr1:77887913-77888010",
+        "VariantType": "Repeat"
+    },
+    {
+        "LocusId": "TIMM10",
+        "LocusStructure": "(TA)*",
+        "ReferenceRegion": "chr11:57528484-57528517",
+        "VariantType": "Repeat"
+    },
+    {
+        "LocusId": "CSTB",
+        "LocusStructure": "(CGCGGGGCGGGG)*",
+        "ReferenceRegion": "chr21:43776443-43776479",
+        "VariantType": "Repeat"
+    }   
+]

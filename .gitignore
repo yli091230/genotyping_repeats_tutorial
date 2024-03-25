@@ -1,0 +1,16 @@
+# dirs
+.ipynb_checkpoints/*
+1000_genomes/
+references/
+example_papers/
+HipSTR/
+EnsembleTR/
+TRTools/
+output/
+example_papers/
+ExpansionHunter*/
+
+# files
+example_data.tar.gz
+Procedure.ipynb
+ExpansionHunter*
