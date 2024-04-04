@@ -9,6 +9,7 @@ TRTools/
 output/
 relevant_papers/
 ExpansionHunter*/
+downstream/
 
 # files
 *.html
