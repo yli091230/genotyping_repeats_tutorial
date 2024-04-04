@@ -1,0 +1,7 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "variants",
+        "samples"
+    ],
+    "comment": "Method(s) that support the consensus call (AdVNTR, EH, HipSTR, GangSTR)"
+}

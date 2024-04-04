@@ -11,6 +11,7 @@ relevant_papers/
 ExpansionHunter*/
 
 # files
-example_data.tar.gz
+*.html
+*.tar.gz
 Procedure.ipynb
 ExpansionHunter*
