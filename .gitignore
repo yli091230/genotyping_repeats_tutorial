@@ -12,6 +12,10 @@ ExpansionHunter*/
 downstream/
 
 # files
+VNTR_motif_map.txt
+test_tr_plot.png
+*.fa
+*.pdf
 *.html
 *.tar.gz
 Procedure.ipynb
