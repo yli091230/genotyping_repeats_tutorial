@@ -18,5 +18,7 @@ test_tr_plot.png
 *.pdf
 *.html
 *.tar.gz
+*.png
+downstream-sgkit.ipynb
 Procedure.ipynb
 ExpansionHunter*
