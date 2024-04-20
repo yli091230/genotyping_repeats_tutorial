@@ -1,2 +1,0 @@
-Sample	ref_chr	non_ref_chr
-HG00613	1	1

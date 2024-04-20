@@ -1,7 +1,0 @@
-Sample	ref_chr	non_ref_chr
-HG00742	1	1
-HG01054	1	1
-HG01250	1	1
-HG01468	1	1
-HG02006	1	1
-HG02286	1	1
