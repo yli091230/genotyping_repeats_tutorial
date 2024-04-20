@@ -9,8 +9,17 @@ TRTools/
 output/
 relevant_papers/
 ExpansionHunter*/
+downstream/
 
 # files
-example_data.tar.gz
+VNTR_motif_map.txt
+test_tr_plot.png
+*.fa
+*.pdf
+*.html
+*.tar.gz
+*.png
+downstream-sgkit.ipynb
 Procedure.ipynb
 ExpansionHunter*
+*homo*
