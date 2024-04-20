@@ -1,0 +1,2 @@
+Sample	ref_chr	non_ref_chr
+NA18510	1	1

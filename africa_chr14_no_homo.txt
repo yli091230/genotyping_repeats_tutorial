@@ -1,0 +1,2 @@
+Sample	ref_chr	non_ref_chr
+HG02465	1	1

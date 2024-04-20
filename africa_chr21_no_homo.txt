@@ -1,0 +1,1 @@
+Sample	ref_chr	non_ref_chr

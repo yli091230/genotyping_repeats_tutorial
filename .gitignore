@@ -2,6 +2,7 @@
 .ipynb_checkpoints/
 1000_genomes/
 references/
+example_data/
 example_papers/
 HipSTR/
 EnsembleTR/
@@ -22,4 +23,3 @@ test_tr_plot.png
 downstream-sgkit.ipynb
 Procedure.ipynb
 ExpansionHunter*
-*homo*

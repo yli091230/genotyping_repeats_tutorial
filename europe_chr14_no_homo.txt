@@ -1,0 +1,2 @@
+Sample	ref_chr	non_ref_chr
+HG00358	1	1

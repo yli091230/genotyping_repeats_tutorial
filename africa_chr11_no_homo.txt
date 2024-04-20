@@ -1,0 +1,4 @@
+Sample	ref_chr	non_ref_chr
+HG03060	1	1
+HG03458	1	1
+NA19700	1	1
