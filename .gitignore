@@ -2,6 +2,7 @@
 .ipynb_checkpoints/
 1000_genomes/
 references/
+example_data/
 example_papers/
 HipSTR/
 EnsembleTR/
