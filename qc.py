@@ -11,7 +11,6 @@ samples = []
 ref_samples = defaultdict(int)
 non_ref_samples = defaultdict(int)
 
-alt_diff = defaultdict(str)
 
 while True:
     line = sys.stdin.readline()
@@ -47,6 +46,7 @@ while True:
                     non_ref_samples[samples[i]] += 1
 
 print(ref_samples)
-with open(f"{pop}_no_homo.txt",'w') as f:
+with open(f"{pop}_{chr}_no_homo.txt",'w') as f:
+    f.write("Sample\tref_chr\tnon_ref_chr\n")  # Writing the header
     for key in ref_samples:
         f.write(f"{key}\t{ref_samples[key]}\t{non_ref_samples[key]}\n")
