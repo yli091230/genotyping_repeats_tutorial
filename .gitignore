@@ -11,6 +11,7 @@ output/
 relevant_papers/
 ExpansionHunter*/
 downstream/
+vcftools/
 
 # files
 VNTR_motif_map.txt
