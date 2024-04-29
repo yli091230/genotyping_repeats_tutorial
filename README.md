@@ -17,12 +17,16 @@ pip install bash_kernel
 python -m bash_kernel.install
 ```
 
-3. Launch **Part 1 notebook.ipynb** and select Bash from the 'New' menu in the notebook interface
+3. Run **Part 1 notebook** and select Bash from the 'New' menu in the notebook interface
 ```
-jupyter notebook Part\ 1\ notebook.ipynb
+jupyter notebook generating_consensus_tr_genotypes.ipynb
 ```
 
-4. Launch **Part 2 notebook.ipynb**
+4. Run **Part 2 notebooks**
 ```
-jupyter notebook Part\ 2\ notebook.ipynb
+jupyter notebook investigating_tr_variation.ipynb
+```
+
+```
+jupyter notebook assiciation_example.ipynb
 ```

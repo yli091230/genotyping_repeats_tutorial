@@ -24,6 +24,7 @@ test_tr_plot.png
 *.tar.gz
 *.png
 *.log
+*.vcf.gz*
 downstream-sgkit.ipynb
 Procedure.ipynb
 ExpansionHunter*
